@@ -1,1 +1,1 @@
-{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,GACE,SAAU","file":"styles.css","sourcesContent":["h1 {\n  color: red;\n}\n"]}
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,GACE,YAAa,CAGf,EACE,gCAAyB,CAAzB,wBAAyB","file":"styles.css","sourcesContent":["h1 {\n  color: orange;\n}\n\np {\n  transform: rotate(-10deg);\n}\n"]}
