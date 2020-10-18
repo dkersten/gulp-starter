@@ -1,7 +1,23 @@
-h1 {
-  color: orange;
-}
+// abstract folder imports
+@import './abstracts/variables';
+@import './abstracts/functions';
+@import './abstracts/mixins';
+@import './abstracts/placeholders';
 
-p {
-  transform: rotate(-10deg);
-}
+// base imports
+@import './base/reset';
+@import './base/typography';
+
+// components imports
+@import './components/images.scss';
+
+// layout imports
+
+// pages imports
+@import './pages/home.scss';
+
+//// Next two are less likely to be needed based on your needs
+
+// themes imports
+
+// vendors imports
