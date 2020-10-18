@@ -37,7 +37,8 @@ const imgSquash = () => {
 
 // compile style.scss into style.css
 const scssTask = () => {
-  return src(files.scssPath)
+  // return src(files.scssPath)
+  return src('./app/scss/styles.scss')
     .pipe(sourcemaps.init()) // initialize sourcemaps first
     .pipe(sass()) // compile scss -> css
     .pipe(postcss([ autoprefixer(), cssnano() ])) // postcss plugins

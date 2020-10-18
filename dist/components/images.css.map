@@ -1,1 +1,0 @@
-{"version":3,"sources":["components/images.scss"],"names":[],"mappings":"AAAA,IACE,eAAgB,CAChB,WAAY","file":"images.css","sourcesContent":["img {\n  max-width: 300px;\n  margin: 2rem;\n}\n"]}
