@@ -13,6 +13,7 @@
 @import './components/header.scss';
 
 // layout imports
+@import './layout/temp.scss';
 
 // pages imports
 @import './pages/home.scss';
@@ -20,5 +21,7 @@
 //// Next two are less likely to be needed based on your needs
 
 // themes imports
+@import './themes/temp.scss';
 
 // vendors imports
+@import './vendors/temp.scss';
